@@ -8,7 +8,7 @@ As a data analyst for DreamHome Agency, you've received the following data reque
 We need a list of all our property postcodes for a mailing campaign.
 
 ### Request 1.2:
-Provide a list of all properties and their viewing history, including those that haven't been viewed, to plan maintenance visits.
+c
 
 ### Request 1.3:
 We're considering expanding to areas with postcode starting 'BS1'. Can you confirm if we have any properties in these areas?
